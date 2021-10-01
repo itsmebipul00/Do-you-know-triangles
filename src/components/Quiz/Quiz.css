@@ -1,0 +1,27 @@
+.question-answer{
+    margin-bottom: 2em;
+}
+
+.question{
+    margin-bottom: 0.5em;
+}
+
+
+.btn-flex{
+    display: flex;
+}
+
+.button-replay{
+    margin: 1em 1em;
+    background: green;
+    color: white;
+    font-size: 1em;
+    padding: 0.4em 1em;
+}
+
+.button-replay:hover,
+.button-replay:focus{
+    background: black;
+    color: white;
+    cursor: pointer;
+}

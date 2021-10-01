@@ -1,0 +1,24 @@
+.con-nav{
+    padding: 2em;
+}
+
+.home-links{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2em;
+}
+
+.link-item{
+    margin: 1em 1em 0 0;
+}
+
+.link-item{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.3em;
+}
+
+.link-item:hover,
+.link-item:focus{
+    color: sienna;
+}
