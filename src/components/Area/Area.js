@@ -20,7 +20,7 @@ const Area = () => {
         if(area>0){
             showmsg(`Area is ${area} units`, Msg)
         }else{
-            showmsg(`Inputs aren't valid`, Msg)
+            showmsg(`Please enter valid inputs`, Msg)
         }
     }, [area])
 

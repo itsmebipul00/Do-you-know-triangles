@@ -52,7 +52,7 @@ const IsTriangle = () => {
                         />
                     </div>
                     <div>
-                        <button className='button-result'>Calculate Hypotenuse</button>
+                        <button className='button-result'>Check Triangle</button>
                     </div>
                 </form>
                 <div className="angle-result">
